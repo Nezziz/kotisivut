@@ -1,5 +1,84 @@
+/* Yleiset asetukset */
 body {
+    margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+}
+
+/* Header-asettelu */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-right input[type="text"] {
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.login-icon {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* Sähkönsiniset viivat */
+.header-lines {
+    height: 6px;
+    background:
+        linear-gradient(#007BFF, #007BFF) top,
+        linear-gradient(#007BFF, #007BFF) center,
+        linear-gradient(#007BFF, #007BFF) bottom;
+    background-repeat: no-repeat;
+    background-size: 100% 2px;
+    margin-top: -6px;
+}
+
+/* Kehys sisällölle */
+.content {
+    border: 2px solid #007BFF;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+/* Footer-tyyli */
+footer {
+    background-color: #222;
+    color: white;
     text-align: center;
-  }
+    padding: 20px;
+    margin-top: 40px;
+}
