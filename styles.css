@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #0f0d2b;
+    background-color: #e7aeae;
 }
 
 /* Header-asettelu */
@@ -14,6 +14,17 @@ header {
     background-color: white;
     position: relative;
     z-index: 1;
+}
+h1{
+    color: blue;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+h2 {
+    color:chartreuse;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .logo {
@@ -62,7 +73,7 @@ header {
         linear-gradient(#007BFF, #007BFF) center,
         linear-gradient(#007BFF, #007BFF) bottom;
     background-repeat: no-repeat;
-    background-size: 100% 2px;
+    background-size: 100% 4px;
     margin-top: -6px;
 }
 
