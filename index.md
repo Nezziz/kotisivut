@@ -1,8 +1,3 @@
-
-
-
-
-
 Moikka olen Erkki Puumalainen, tervetuloa sivuilleni
 sivuston sisältö on tarkoitettu informatiiviseksi tuotokseksi, joka käsittelee tietoturvaa, tekoälyä sekä 
 ohjelmoinnin perusteita.Sivuston sisältö ei ole aukotonta, enkä ota vastuusta, mahdollisista ohjelmisto, tai laiterikoista.
