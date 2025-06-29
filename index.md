@@ -8,9 +8,10 @@ title: Tervetuloa
 Hei, olen **Erkki Puumalainen** – tervetuloa sivustolleni!
 
 Tämä sivusto on tarkoitettu informatiiviseksi materiaaliksi, jossa käsitellään:
-- Tietoturvaa
-- Tekoälyä
-- Ohjelmoinnin perusteita
+Tämä sivusto on tarkoitettu informatiiviseksi materiaaliksi, jossa käsitellään:
+- [Tietoturvaa](tietoturva/)
+- [Tekoälyä](tekoalyä/)
+- [Ohjelmoinnin perusteita](ohjelmointi/)
 
 Huom! Sivuston sisältö ei ole aukotonta, eikä se tarjoa takuita. En ota vastuuta mahdollisista ohjelmisto- tai laiterikoista, jotka johtuvat sisällön käytöstä. En myöskään anna lupaa käyttää sisältöä rikollisiin tarkoituksiin – kaikki materiaali on tarkoitettu omaan oppimiseen ja itsensä kehittämiseen.
 
