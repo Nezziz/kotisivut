@@ -28,11 +28,17 @@
 </header>
 
   <h1>Moikka olen Erkki Puumalainen, tervetuloa sivuilleni</h1>
-  <h2>sivuston sisältö on tarkoitettu informatiiviseksi tuotokseksi, joka käsittelee tietoturvaa, tekoälyä sekä ohjelmoinnin perusteita.
-    sivuston sisältö ei ole aukotonta enkä ota vastuusta, mahdollisista ohjelmisto, tai laiterikoista, enkä anna lupaa sivustolla esiintyvien,
-    aiheiden käyttämistä rikolliseen tai muuhun kuin oman itsensä kehittämisen tarkoitukseen. 
+  <h2>sivuston sisältö on tarkoitettu informatiiviseksi tuotokseksi, joka käsittelee tietoturvaa, tekoälyä sekä 
+    ohjelmoinnin perusteita.Sivuston sisältö ei ole aukotonta enkä ota vastuusta, mahdollisista ohjelmisto, tai laiterikoista.
+    En anna lupaa sivustolla esiintyvien aiheiden käyttämistä rikolliseen tai muuhun kuin oman itsensä kehittämisen tarkoitukseen. 
 
-    tulen kertomaan sivustoilla esimerkiksi tämä sivuston rakentamiseen käytettyjen ratkaisujen käytöstä joita ovat VS-code, Github, React, ja Node js.
+    Tulen kertomaan sivustoilla esimerkiksi tämä sivuston rakentamiseen käytettyjen ratkaisujen käytöstä joita ovat 
+    - VS-code, 
+    - Github, -
+    - React, 
+    - Node js.
+    - Jekyl
+    
     
   </h2>
   <p> 19.5.2025 tehdään sivustolle valikkorakenne yläpalkkiin:</p> 
