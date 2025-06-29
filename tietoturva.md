@@ -1,13 +1,17 @@
 Tällä sivulla käsitellään tietoturvaa yleisellä tasolla. 
-Tietoturva ei ole vain yksi yksittäinen asia, joka täytyy hoitaa pois päiväjärjestykseatä, 
+## Tietoturva
 
-- Tietoturva on moniosainen prosessikokonaisuus, joka nitoutuu kiinteästi, verkkoliikenteeseen, laitteistoihin, sekä tietokantoihin
-- puhutaan fyysisestä suojautumisesta
-- puhutaan loogisesta suojautumisesta
-- Miten päivitetään
-- tiedon salaus
-   - dokumenttien salaus
-   - salausavaimet
-   - salasanat
-   - GDBR
-   - 
+Tietoturva ei ole yksi tehtävä, joka "hoidetaan pois", vaan **jatkuva prosessi**. Se koostuu useista osa-alueista, jotka liittyvät niin ohjelmistoihin kuin laitteistoihin.
+
+### Keskeisiä aiheita:
+
+- Fyysinen suojautuminen
+- Looginen suojautuminen
+- Päivityskäytännöt
+- Tiedon salaus:
+  - Dokumenttien salaus
+  - Salausavaimet
+  - Salasanat
+- GDPR ja tietosuoja
+
+---
