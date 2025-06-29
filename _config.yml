@@ -1,3 +1,9 @@
-title: kotisivut
+title: Kotisivut
 description: Tervetuloa sivustolle!
 theme: jekyll-theme-midnight
+
+url: "https://oma-sivusto.fi"  # Vaihda omaksi domainiksi, jos käytössä
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
