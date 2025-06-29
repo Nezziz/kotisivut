@@ -1,5 +1,6 @@
 ---
 title: Tervetuloa
+layout: default
 ---
 
 # Tervetuloa!
